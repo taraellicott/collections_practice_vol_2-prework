@@ -36,3 +36,4 @@ end
   
 def organize_schools
 end
+  organizes the schools by location
