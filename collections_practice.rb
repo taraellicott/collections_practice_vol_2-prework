@@ -32,7 +32,7 @@ end
     combines two nested data structures into one (FAILED - 7)
   
   
-def find_cool
+def find_cool(arr)
 end
     find all cool hashes (FAILED - 8)
   
