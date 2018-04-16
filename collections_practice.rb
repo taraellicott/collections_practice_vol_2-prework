@@ -37,6 +37,6 @@ end
     find all cool hashes (FAILED - 8)
   
   
-def organize_schools
+def organize_schools(schools)
 end
   organizes the schools by location (FAILED - 9)
