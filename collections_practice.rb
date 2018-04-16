@@ -27,7 +27,7 @@ end
     count how many times something appears in an array (FAILED - 6)
   
   
-def merge_data
+def merge_data(hash1, hash2)
 end
     combines two nested data structures into one (FAILED - 7)
   
