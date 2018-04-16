@@ -7,22 +7,22 @@ def begins_with_r(arr)
 end
 
   
-def contain_a
+def contain_a(arr)
 end
     return all elements that contain the letter 'a' (FAILED - 3)
   
   
-  def first_wa
+  def first_wa(arr)
 end
     Return the first element that begins with the letters 'wa' (FAILED - 4)
  
  
-  def remove_non_strings
+  def remove_non_strings(arr)
 end
     remove anything thats not a string from an array (FAILED - 5)
   
   
-def count_elements
+def count_elements(arr)
 end
     count how many times something appears in an array (FAILED - 6)
   
