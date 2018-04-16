@@ -1,10 +1,13 @@
- def begins_with_r
- end
-    Return true if every element of the tools array starts with an "r" and false otherwise. (FAILED - 1)
-    should return false if theres an element that does not begin with r (FAILED - 2)
+def begins_with_r(arr)
+  all_rs = true
+  arr.each do |elem|
+    all_rs = false if elem[0] != "r"
+  end
+  all_rs
+end
+
   
-  
-  def contain_a
+def contain_a
 end
     return all elements that contain the letter 'a' (FAILED - 3)
   
