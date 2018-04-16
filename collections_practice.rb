@@ -1,7 +1,7 @@
  def begins_with_r
  end
     Return true if every element of the tools array starts with an "r" and false otherwise. (FAILED - 1)
-    should return false if there's an element that does not begin with r (FAILED - 2)
+    should return false if theres an element that does not begin with r (FAILED - 2)
   
   
   def contain_a
@@ -16,7 +16,7 @@ end
  
   def remove_non_strings
 end
-    remove anything that's not a string from an array (FAILED - 5)
+    remove anything thats not a string from an array (FAILED - 5)
   
   
 def count_elements
@@ -36,4 +36,4 @@ end
   
 def organize_schools
 end
-  organizes the schools by location
+  organizes the schools by location (FAILED - 9)
